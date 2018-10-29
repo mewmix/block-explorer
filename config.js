@@ -1,4 +1,4 @@
-var api = '104.196.174.142:11898';
+var api = 'http://104.196.174.142:11898';
 var donationAddress = "";
 var blockTargetInterval = 30;
 var coinUnits = 100;
