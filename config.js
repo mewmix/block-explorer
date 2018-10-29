@@ -22,7 +22,7 @@ var networkStat = {
 };
 
 var networkStat2 = {
-    "trtl": [
+    "TNGU": [
 	[""]
  ]
 };
