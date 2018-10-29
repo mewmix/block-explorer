@@ -1,16 +1,16 @@
-var api = 'http://127.0.0.1:11898';
+var api = '104.196.174.142:11898';
 var donationAddress = "";
 var blockTargetInterval = 30;
 var coinUnits = 100;
-var symbol = 'trtl';
+var symbol = 'TNGU';
 var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
- "trtl": [
-	["z-pool.com", "http://z-pool.com:8117"],
-	["eu.turtlepool.space", "http://eu.turtlepool.space:8117"],
-	["us.turtlepool.space", "http://us.turtlepool.space:8117"],
-	["hk.turtlepool.space", "http://hk.turtlepool.space:8117"],
+ "TNGU": [
+	["INSTANCE1", "http://z-pool.com:8117"],
+	["INSTANCE2", "http://eu.turtlepool.space:8117"],
+	["INSTANCE3", "http://us.turtlepool.space:8117"],
+	["INSTANCE4", "http://hk.turtlepool.space:8117"],
 	["turtlecoinpool.ddns.net", "http://turtlecoinpool.ddns.net:8127"],
 	["trtl.mine2gether.com", "https://trtl.mine2gether.com/api"],
 	["trtl.heigh-ho.funkypenguin.co.nz", "https://api.trtl.heigh-ho.funkypenguin.co.nz"],
