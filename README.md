@@ -1,4 +1,4 @@
-# TurtleCoin-Blockchain-Explorer
+# TENGU-Blockchain-Explorer
 Block explorer for TurtleCoin CryptoNote based cryptocurrency.
 
 #### Installation
