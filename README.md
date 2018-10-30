@@ -1,9 +1,11 @@
 # TENGU-Blockchain-Explorer
-Block explorer for TurtleCoin CryptoNote based cryptocurrency.
+Block explorer for Tengu CryptoNote based cryptocurrency.
+
+All Credits & Thanks go to TurtleCoin Developers for getting me this far.
 
 #### Installation
 
-1) It takes data from daemon turtlecoind. It should be accessible from the Internet. Run turtlecoind with open port as follows:
+1) It takes data from daemon tengud. It should be accessible from the Internet. Run tengud with open port as follows:
 ```bash
 ./tengud --enable-cors="*" --enable_blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=11898
 
