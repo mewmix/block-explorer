@@ -17,7 +17,8 @@ All Credits & Thanks go to TurtleCoin Developers for getting me this far.
 Devs:
     @devopsralf
 
-Donate: [TRTL] TRTLv2RCPuD7AaaVpQkRPF59MMLx5WW3qFxwJz4Doy7dHhNA6UuQjEpLL3rpUQS4RXdQn8fb4P1XC3K62GeJjGgG8DP9LNaTrNL
+Donate: [TRTL] TRTLv3CraEh34yCB5higVyGmwkD7Gkq2Jd2zM43wpvPNAkLmKq4CmCv9TR82EGWUqidPEFmArR2z732jP4Eyc44E1rmAqYAipMw
+
 
 ### Note
 
